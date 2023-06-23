@@ -14,7 +14,7 @@
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
 
-Cursando Ciência da Computação, e em busca de uma primeira oportunidade para atuar na área!!
+Apaixonado por tecnologia e em busca de uma primeira oportunidade para atuar na área!!
 
 ### E-mail para contato: 
 vinicius.vbochnie@gmail.com
