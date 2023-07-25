@@ -16,6 +16,10 @@
     <img align="center" alt="fireBase" src="https://www.gstatic.com/devrel-devsite/prod/v7b74b7a1dd90b3a2c97ba5b48fc3a88151d3c739a31c70c275b4522a136add85/firebase/images/lockup.svg" />
 </div><br/>
 
+.firebase{
+width:86.25px;
+height:28px;
+}
 Apaixonado por tecnologia e em busca de uma primeira oportunidade para atuar na área!!
 
 ### E-mail para contato: 
